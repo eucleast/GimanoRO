@@ -63637,3 +63637,8 @@ Body:
     EquipLevelMin: 1
     Script: |
       bonus bAtkEle,Ele_Holy;
+
+Footer:
+  Imports:
+  - Path: db/import/item_db.yml
+    Mode: Renewal

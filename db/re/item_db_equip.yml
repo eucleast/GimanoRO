@@ -172133,3 +172133,8 @@ Body:
     WeaponLevel: 5
     EquipLevelMin: 210
     Refineable: true
+
+Footer:
+  Imports:
+  - Path: db/import/item_db.yml
+    Mode: Renewal
